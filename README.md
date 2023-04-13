@@ -82,5 +82,6 @@ El problema de los filósofos es un problema clásico de concurrencia que implic
 ***
 
 Jeyllon Sandoval 2021-1155
+
 Emmanuel Torres Malena 2021-1097
 
