@@ -62,14 +62,14 @@ Ocurre cuando dos o más procesos se bloquean entre sí mientras esperan recurso
 
 
 # Exclusión mutual
-Es un mecanismo que se utiliza para garantizar que solo un proceso pueda acceder a un recurso compartido en un momento dado, para evitar conflictos y condiciones de carrera.
+Es un mecanismo que se utiliza para garantizar que solo un proceso pueda acceder a un recurso compartido en un momento dado, para evitar conflictos y condiciones de carrera. Estas secciones de recursos compartidos se llaman secciones criticas, ya que varios procesos pueden modificar esos recursos.
 
 
 # Mantenga y espere
 Es una técnica utilizada para prevenir los problemas de interbloqueo, que implica que un proceso mantenga cualquier recurso que ya tenga mientras espera para adquirir otros recursos que necesita.
 
 # No preventivo
-Un sistema de interbloqueo no preventivo no toma medidas para evitar o prevenir el interbloqueo. En lugar de eso, intenta resolver los problemas de interbloqueo después de que hayan ocurrido.
+Un sistema de interbloqueo no preventivo no toma medidas para evitar o prevenir el interbloqueo. En lugar de eso, intenta resolver los problemas de interbloqueo después de que hayan ocurrido. 
 
 
 # Espera circular
@@ -84,6 +84,3 @@ El problema de los filósofos es un problema clásico de concurrencia que implic
 Jeyllon Sandoval 2021-1155
 
 Emmanuel Torres Malena 2021-1097
-
-
-> pruebaasdfk;alsdjf;askdjf;aksdjf;askdjf;asdkjf;skdjf;asdjkf;asjdf
